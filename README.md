@@ -1,7 +1,7 @@
 ### Hi there. I'm Renato Albuquerque, Front-End Web Developer. 👋
 
 - 🌱 I’m currently learning JavaScript. The learning sequence: React.js, Node.js and SQL.
-- 💬 About me: <br> I'm currently studying Full Stack Web Development, at Rocketseat and Curso em Vídeo (Gustavo Guanabara). <br> 
+- 💬 About me: <br> I'm currently studying Full Stack Web Development, at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
   I have a degree in Production Engineering from the Federal University of Ceará, with a postgraduate degree in Port Engineering from the Federal University of Maranhão. <em>(Brazil)</em>
 - ✈️ International experience: <br> Student at the Faculty of Engineering of the University of Porto, FEUP. <em>(Portugal)</em>
 - 📫 How to reach me: <br> My Digital Business Card with all contacts: https://rma-contacts.vercel.app/ <br>
@@ -22,12 +22,14 @@
 ### Technologies:
   
 <div style="display: inline_block">
-  <img align="center" alt="rma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="rma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="rma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="rma-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="rma-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  
+  <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="icon-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  SQL
+  <img align="center" alt="icon-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="icon-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
 ##
@@ -35,7 +37,15 @@
 ### Contact me:
 
 <div> 
-  <a href="https://www.linkedin.com/in/renato-malbuquerque" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:renatomalb83@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  <a href="https://www.linkedin.com/in/renato-malbuquerque" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:renatomalb83@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/+5585988964385" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"><a/>
+  <a href="https://telegram.me/renatomalb" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a/>
 </div>
+
+### My Resume
+- 🔗 <a href="https://drive.google.com/file/d/105ZwSBpX4yQc-UegAAVswOk4hrCycZPE/view?usp=share_link" target="_blank">English Version<a/>
+- 🔗 <a href="https://drive.google.com/file/d/1yN8221jjjHqQwQYdjsoAk6Tx0jV4pcBL/view?usp=share_link" target="_blank">Portuguese Version<a/>
+    
+    
+    
