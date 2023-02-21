@@ -9,7 +9,7 @@
 
 ##
 
-### Github Stats:
+### Github Stats
 
 <div align="center">
   <a href="https://github.com/renato-albuquerque">
@@ -19,7 +19,7 @@
 
 ##
 
-### Technologies:
+### Technologies
   
 <div style="display: inline_block">
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,7 +34,7 @@
 
 ##
   
-### Contact me:
+### Contact me
 
 <div> 
   <a href="https://www.linkedin.com/in/renato-malbuquerque" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -42,10 +42,12 @@
   <a href="https://wa.me/+5585988964385" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"><a/>
   <a href="https://telegram.me/renatomalb" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a/>
 </div>
+    
+##
 
 ### My Resume
-- 🔗 <a href="https://drive.google.com/file/d/105ZwSBpX4yQc-UegAAVswOk4hrCycZPE/view?usp=share_link" target="_blank">English Version<a/>
-- 🔗 <a href="https://drive.google.com/file/d/1yN8221jjjHqQwQYdjsoAk6Tx0jV4pcBL/view?usp=share_link" target="_blank">Portuguese Version<a/>
+🔗 <a href="https://drive.google.com/file/d/105ZwSBpX4yQc-UegAAVswOk4hrCycZPE/view?usp=share_link" target="_blank">English Version<a/>
+🔗 <a href="https://drive.google.com/file/d/1yN8221jjjHqQwQYdjsoAk6Tx0jV4pcBL/view?usp=share_link" target="_blank">Portuguese Version<a/>
     
     
     
