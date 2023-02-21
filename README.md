@@ -1,10 +1,11 @@
 ### Hi there. I'm Renato Albuquerque, Front-End Web Developer. 👋
 
-- 🌱 I’m currently learning JavaScript. The learning sequence will be: React.js, Node.js and SQL.
+- 🌱 I’m currently learning JavaScript. The learning sequence: React.js, Node.js and SQL.
 - 💬 About me: <br> I'm currently studying Full Stack Web Development, at Rocketseat and Curso em Vídeo (Gustavo Guanabara). <br> 
   I have a degree in Production Engineering from the Federal University of Ceará, with a postgraduate degree in Port Engineering from the Federal University of Maranhão. <em>(Brazil)</em>
 - ✈️ International experience: <br> Student at the Faculty of Engineering of the University of Porto, FEUP. <em>(Portugal)</em>
-- 📫 How to reach me: <br> My digital business card with all contacts: https://rma-contacts.vercel.app/
+- 📫 How to reach me: <br> My Digital Business Card with all contacts: https://rma-contacts.vercel.app/ <br>
+  <em>(First personal project, using HTML, CSS and JavaScript technologies).</em>
 
 ##
 
@@ -12,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/renato-albuquerque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renato-albuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-albuquerque&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renato-albuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-albuquerque&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 
 ##
