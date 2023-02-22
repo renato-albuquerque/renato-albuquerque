@@ -1,15 +1,15 @@
 ### Hi there. I'm **Renato Albuquerque**, Front-End Web Developer. 👋
 
 - 🌱 I’m currently learning JavaScript. The technologies learning sequence: React.js, Node.js and SQL.
-- 💬 About me: <br> I'm currently studying Full Stack Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
-  I have a degree in Production Engineering from the Federal University of Ceará, with a postgraduate degree in Port Engineering from the Federal University of Maranhão. <em>(Brazil)</em>
-- ✈️ International experience: <br> Student at the Faculty of Engineering of the University of Porto, FEUP. <em>(Portugal)</em>
-- 📫 How to reach me: <br> My Digital Business Card with all contacts: https://rma-contacts.vercel.app/ <br>
+- 💬 **About me:** <br> I'm currently studying **Full Stack Web Development** at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and **Front-End Web Development** at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
+  I have a degree in Production Engineering from the Federal University of Ceará, with a postgraduate degree in Port Engineering from the Federal University of Maranhão. *(Brazil)*
+- ✈️ **International experience:** <br> Student at the Faculty of Engineering of the University of Porto, FEUP. *(Portugal)*
+- 📫 **How to reach me:** <br> My Digital Business Card with all contacts: https://rma-contacts.vercel.app/ <br>
   <em>(First personal project, using HTML, CSS and JavaScript technologies).</em>
 
 ##
 
-### Github Stats
+### 📈 Github Stats
 
 <div align="center">
   <a href="https://github.com/renato-albuquerque">
@@ -19,7 +19,7 @@
 
 ##
 
-### Technologies
+### 🚀 Technologies 
   
 <div style="display: inline_block">
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,7 +36,7 @@
     
 ##
   
-### Contact me
+### 📱 Contact me 
 
 <div> 
   <a href="https://www.linkedin.com/in/renato-malbuquerque" target="_blank"><img alt="Contact-Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -47,7 +47,8 @@
     
 ##
 
-### My Resume
+### 📄 My Resume 
+    
 🔗 <a href="https://drive.google.com/file/d/105ZwSBpX4yQc-UegAAVswOk4hrCycZPE/view?usp=share_link" target="_blank">English Version<a/>
 🔗 <a href="https://drive.google.com/file/d/1yN8221jjjHqQwQYdjsoAk6Tx0jV4pcBL/view?usp=share_link" target="_blank">Portuguese Version<a/>
     
