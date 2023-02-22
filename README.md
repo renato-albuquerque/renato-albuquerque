@@ -1,7 +1,7 @@
-### Hi there. I'm Renato Albuquerque, Front-End Web Developer. 👋
+### Hi there. I'm **Renato Albuquerque**, Front-End Web Developer. 👋
 
-- 🌱 I’m currently learning JavaScript. The learning sequence: React.js, Node.js and SQL.
-- 💬 About me: <br> I'm currently studying Full Stack Web Development, at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
+- 🌱 I’m currently learning JavaScript. The technologies learning sequence: React.js, Node.js and SQL.
+- 💬 About me: <br> I'm currently studying Full Stack Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
   I have a degree in Production Engineering from the Federal University of Ceará, with a postgraduate degree in Port Engineering from the Federal University of Maranhão. <em>(Brazil)</em>
 - ✈️ International experience: <br> Student at the Faculty of Engineering of the University of Porto, FEUP. <em>(Portugal)</em>
 - 📫 How to reach me: <br> My Digital Business Card with all contacts: https://rma-contacts.vercel.app/ <br>
@@ -24,14 +24,17 @@
 <div style="display: inline_block">
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="icon-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  SQL
-  <img align="center" alt="icon-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="icon-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
-
+  <img align="center" alt="icon-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="icon-React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="icon-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="icon-SQL" height="33" width="43" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-server-5410224-4543401.png?f=avif&w=256">          
+  <img align="center" alt="icon-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="icon-Github" height="33" width="43" src="https://skillicons.dev/icons?i=github">
+  <img align="center" alt="icon-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="icon-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="icon-Gimp" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+  
+  
 ##
   
 ### Contact me
