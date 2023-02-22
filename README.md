@@ -1,10 +1,10 @@
 ### Hi there. I'm **Renato Albuquerque**, Front-End Web Developer. 👋
 
 - 🌱 I’m currently learning JavaScript. The technologies learning sequence: React.js, Node.js and SQL.
-- 💬 **About me:** <br> I'm currently studying **Full Stack Web Development** at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and **Front-End Web Development** at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
+- 💬 About me: <br> I'm currently studying *Full Stack Web Development* at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and *Front-End Web Development* at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
   I have a degree in Production Engineering from the Federal University of Ceará, with a postgraduate degree in Port Engineering from the Federal University of Maranhão. *(Brazil)*
-- ✈️ **International experience:** <br> Student at the Faculty of Engineering of the University of Porto, FEUP. *(Portugal)*
-- 📫 **How to reach me:** <br> My Digital Business Card with all contacts: https://rma-contacts.vercel.app/ <br>
+- ✈️ International experience: <br> Student at the Faculty of Engineering of the University of Porto, FEUP. *(Portugal)*
+- 📫 How to reach me: <br> My Digital Business Card with all contacts: https://rma-contacts.vercel.app/ <br>
   <em>(First personal project, using HTML, CSS and JavaScript technologies).</em>
 
 ##
@@ -36,7 +36,7 @@
     
 ##
   
-### 📱 Contact me 
+### ☎️ Contact me 
 
 <div> 
   <a href="https://www.linkedin.com/in/renato-malbuquerque" target="_blank"><img alt="Contact-Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
