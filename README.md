@@ -1,6 +1,8 @@
 ### Hi there! I'm **Renato Albuquerque**, Front-End Web Developer. 👋
 
-- 🌱 I’m currently learning JavaScript. The technologies learning sequence: React.js, Node.js and SQL.
+<img align="right" alt="GIF Developer working" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="295" height="275" />
+
+- 🌱 I’m currently learning JavaScript. The next technologies learning: React.js, Node.js and SQL.
 - 💬 About me: <br> I'm currently studying *Full Stack Web Development* at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and *Front-End Web Development* at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
   I have a degree in Production Engineering from the Federal University of Ceará, with a postgraduate degree in Port Engineering from the Federal University of Maranhão. *(Brazil)*
 - ✈️ International experience: <br> Student at the Faculty of Engineering of the University of Porto, FEUP. *(Portugal)*
