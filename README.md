@@ -1,4 +1,4 @@
-### Hi there. I'm **Renato Albuquerque**, Front-End Web Developer. 👋
+### Hi there! I'm **Renato Albuquerque**, Front-End Web Developer. 👋
 
 - 🌱 I’m currently learning JavaScript. The technologies learning sequence: React.js, Node.js and SQL.
 - 💬 About me: <br> I'm currently studying *Full Stack Web Development* at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and *Front-End Web Development* at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
@@ -51,6 +51,3 @@
     
 🔗 <a href="https://drive.google.com/file/d/105ZwSBpX4yQc-UegAAVswOk4hrCycZPE/view?usp=share_link" target="_blank">English Version<a/>
 🔗 <a href="https://drive.google.com/file/d/1yN8221jjjHqQwQYdjsoAk6Tx0jV4pcBL/view?usp=share_link" target="_blank">Portuguese Version<a/>
-    
-    
-    
