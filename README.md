@@ -5,9 +5,10 @@
   I have a degree in Production Engineering from the Federal University of Ceará, with a postgraduate degree in Port Engineering from the Federal University of Maranhão. *(Brazil)*
 - ✈️ International experience: <br> Student at the Faculty of Engineering of the University of Porto, FEUP. *(Portugal)*
   <br> Student at Camber College Language School, English Immersion, Powell River, BC. *(Canada)*
-- 📫 How to reach me: <br> My Digital Business Card with all contacts: https://rma-contacts.vercel.app/ <br>
+- 📫 How to reach me: <br> 
+  My personal Web Portfolio, where you can find some of my most outstanding projects, my technical skills and about my background education and experience: https://portfolio-renatoalbuquerque.vercel.app/ <br> 
+  My Digital Business Card with all contacts: https://rma-contacts.vercel.app/ <br>
   <em>(First personal project, using HTML, CSS and JavaScript technologies).</em>
-  <br> My personal Web Portfolio, where you can find some of my most outstanding projects, my technical skills and about my background education and experience: https://portfolio-renatoalbuquerque.vercel.app/
 
 ##
 
