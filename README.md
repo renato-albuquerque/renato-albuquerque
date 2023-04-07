@@ -1,15 +1,18 @@
 ### Hi there! I'm **Renato Albuquerque**, Front-End Web Developer. 👋
 
-- 🌱 I’m currently learning JavaScript. The next technologies learning: React.js, Node.js and SQL.
-- 💬 About me: <br> I'm currently studying *Full Stack Web Development* at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and *Front-End Web Development* at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
-  I have a degree in Production Engineering from the Federal University of Ceará, with a postgraduate degree in Port Engineering from the Federal University of Maranhão. *(Brazil)*
-- ✈️ International experience: <br> Student at the Faculty of Engineering of the University of Porto, FEUP. *(Portugal)*
-  <br> Student at Camber College Language School, English Immersion, Powell River, BC. *(Canada)*
+- 🌱 Current stacks: <br>
+  - Main languages: `HTML, CSS and JavaScript`. <br>
+  - Learning languages: `React.js, Node.js and SQL`.
+- 💬 About me: <br> 
+  - I'm currently studying `Full Stack Web Development` at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and `Front-End Web Development` at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> Also studying technologies courses by <a href="https://www.dio.me/en" target="_blank">Digital Innovation One (DIO).<a/> <br> 
+  - `Engineering Background`: I have a degree in Production Engineering from the Federal University of Ceará, with a postgraduate degree in Port Engineering from the Federal University of Maranhão. `(Brazil)`
+- ✈️ International experience: <br> 
+  - Student at the Faculty of Engineering of the University of Porto, FEUP. `(Portugal)` <br>
+  - Student at Camber College Language School, English Immersion, Powell River, BC. `(Canada)`
 - 📫 How to reach me: <br> 
-  My personal Web Portfolio, where you can find some of my most outstanding projects, my technical skills and about my background education and experience: https://portfolio-renatoalbuquerque.vercel.app/ <br> 
-  My Digital Business Card with all contacts: https://rma-contacts.vercel.app/ <br>
-  <em>(First personal project, using HTML, CSS and JavaScript technologies).</em>
-
+  - Personal Web `Portfolio`: https://portfolio-renatoalbuquerque.vercel.app/ <br> 
+  - Digital `Business Card`: https://rma-contacts.vercel.app/ <br>
+  
 ##
 
 ### 📈 Github Stats
