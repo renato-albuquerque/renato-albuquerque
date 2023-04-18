@@ -4,11 +4,13 @@
   - Main languages: `HTML, CSS and JavaScript`. <br>
   - Learning languages: `React.js, Node.js and SQL`.
 - 💬 About me: <br> 
-  - I'm currently studying `Full Stack Web Development` at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and `Front-End Web Development` at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> Also studying technologies courses by <a href="https://www.dio.me/en" target="_blank">Digital Innovation One (DIO).<a/> <br> 
-  - `Engineering Background`: I have a degree in Production Engineering from the Federal University of Ceará, with a postgraduate degree in Port Engineering from the Federal University of Maranhão. `(Brazil)`
+  - I'm currently studying `Full Stack Web Development` at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and `Front-End Web Development` at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
+  - `Engineering Background`:  
+    - Degree in Production Engineering from the Federal University of Ceará. `(Brazil)`
+    - Postgraduate degree in Port Engineering from the Federal University of Maranhão. `(Brazil)`
 - ✈️ International experience: <br> 
-  - Student at the Faculty of Engineering of the University of Porto, FEUP. `(Portugal)` <br>
-  - Student at Camber College Language School, English Immersion, Powell River, BC. `(Canada)`
+  - Faculty of Engineering of the University of Porto, FEUP. `(Portugal)` <br>
+  - Camber College Language School, English Immersion, Powell River, BC. `(Canada)`
 - 📫 How to reach me: <br> 
   - Personal Web `Portfolio`: https://portfolio-renatoalbuquerque.vercel.app/ <br> 
   - Digital `Business Card`: https://rma-contacts.vercel.app/ <br>
