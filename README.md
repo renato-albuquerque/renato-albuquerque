@@ -1,17 +1,17 @@
 ### Hi there! I'm **Renato Albuquerque**, Front-End Web Developer. 👋
 
-- 🌱 Current stacks: <br>
+- 🌱 <ins>Current stacks:</ins> <br>
   - Main languages: `HTML, CSS and JavaScript`. <br>
   - Learning languages: `React.js, Node.js and SQL`.
-- 💬 About me: <br> 
+- 💬 <ins>About me:</ins> <br> 
   - I'm currently studying `Full Stack Web Development` at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and `Front-End Web Development` at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
   - `Engineering Background`:  
     - Degree in Production Engineering from the Federal University of Ceará. `(Brazil)`
     - Postgraduate degree in Port Engineering from the Federal University of Maranhão. `(Brazil)`
-- ✈️ International experience: <br> 
+- ✈️ <ins>International experience:</ins> <br> 
   - Faculty of Engineering of the University of Porto, FEUP. `(Portugal)` <br>
   - Camber College Language School, English Immersion, Powell River, BC. `(Canada)`
-- 📫 How to reach me: <br> 
+- 📫 <ins>How to reach me:</ins> <br> 
   - Personal Web `Portfolio`: https://portfolio-renatoalbuquerque.vercel.app/ <br> 
   - Digital `Business Card`: https://rma-contacts.vercel.app/ <br>
   
