@@ -12,8 +12,8 @@
   - Faculty of Engineering of the University of Porto, FEUP. `(Portugal)` <br>
   - Camber College Language School, English Immersion, Powell River, BC. `(Canada)`
 - 📫 <ins>How to reach me:</ins> <br> 
-  - Personal Web `Portfolio`: https://portfolio-renatoalbuquerque.vercel.app/ <br> 
   - Digital `Business Card`: https://rma-contacts.vercel.app/ <br>
+  - Personal Web `Portfolio`: https://portfolio-renatoalbuquerque.vercel.app/ <br> 
   
 ##
 
