@@ -13,7 +13,7 @@
   - Camber College Language School, English Immersion, Powell River, BC. `(Canada)`
 - 📫 <ins>How to reach me:</ins> <br> 
   - Digital `Business Card`: https://rma-contacts.vercel.app/ <br>
-  - Personal Web `Portfolio`: https://portfolio-renatoalbuquerque.vercel.app/ <br> 
+  - `Linkedin`: https://www.linkedin.com/in/renato-malbuquerque/ <br> 
   
 ##
 
