@@ -57,5 +57,5 @@
 
 ### 📄 My Resume 
     
-🔗 <a href="https://drive.google.com/file/d/105ZwSBpX4yQc-UegAAVswOk4hrCycZPE/view?usp=share_link" target="_blank">English Version<a/>
-🔗 <a href="https://drive.google.com/file/d/1yN8221jjjHqQwQYdjsoAk6Tx0jV4pcBL/view?usp=share_link" target="_blank">Portuguese Version<a/>
+🔗 <a href="https://drive.google.com/file/d/1ugQfiGa28_haqfJ8jU5nvNHKtSYuwXwT/view?usp=share_link" target="_blank">English Version<a/>
+🔗 <a href="https://drive.google.com/file/d/14orCkjkx0CjRkGCeGZaQK7XNxjUvqdmh/view?usp=share_link" target="_blank">Portuguese Version<a/>
