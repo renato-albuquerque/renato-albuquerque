@@ -3,8 +3,10 @@
 - 🌱 <ins>Current stacks:</ins> <br>
   - Main languages: `HTML, CSS, JavaScript and React`. <br>
   - Learning languages: `Node.js and SQL`.
-- 💬 <ins>About me:</ins> <br> 
-  - I'm currently studying `Full Stack Web Development` at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and `Front-End Web Development` at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
+- 💬 <ins>About me:</ins> <br>
+  - `Technology Background`:  
+    - Front-End Web Development at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/>
+    - Full Stack Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat.<a/>    
   - `Engineering Background`:  
     - Degree in Production Engineering from the Federal University of Ceará. `(Brazil)`
     - Postgraduate degree in Port Engineering from the Federal University of Maranhão. `(Brazil)`
