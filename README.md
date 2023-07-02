@@ -1,8 +1,8 @@
 ### Hi there! I'm **Renato Albuquerque**, Front-End Web Developer. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
-  - Main languages: `HTML, CSS and JavaScript`. <br>
-  - Learning languages: `React.js, Node.js and SQL`.
+  - Main languages: `HTML, CSS, JavaScript and React`. <br>
+  - Learning languages: `Node.js and SQL`.
 - 💬 <ins>About me:</ins> <br> 
   - I'm currently studying `Full Stack Web Development` at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/> and `Front-End Web Development` at <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo (Gustavo Guanabara).<a/> <br> 
   - `Engineering Background`:  
