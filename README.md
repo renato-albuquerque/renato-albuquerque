@@ -26,11 +26,9 @@
   <a href="https://github.com/renato-albuquerque">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renato-albuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-albuquerque&layout=compact&langs_count=7&theme=dark"/>
-</div> 
-<br>
-<div align='center'>
-<a height="140em" href="http://www.github.com/renato-albuquerque"><img src="https://github-readme-streak-stats.herokuapp.com/?user=renato-albuquerque&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
-</div>
+</div> <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=renato-albuquerque&theme=dark)](https://git.io/streak-stats)
 
 ##
 
