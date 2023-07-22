@@ -22,10 +22,10 @@
 
 ### 📈 Github Stats
 
-<div align="center">
+<div>
   <a href="https://github.com/renato-albuquerque">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renato-albuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-albuquerque&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=renato-albuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-albuquerque&layout=compact&langs_count=7&theme=dark"/>
 </div> <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=renato-albuquerque&theme=dark)](https://git.io/streak-stats)
