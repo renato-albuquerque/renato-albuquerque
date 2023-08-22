@@ -1,4 +1,4 @@
-### Hi there! I'm **Renato Albuquerque**, Front-End Web Developer. 👋
+### Hi there! I'm **Renato Albuquerque**, Front-End Developer. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
   - Main languages: `HTML, CSS, JavaScript, React, Node.js`. <br>
