@@ -1,8 +1,8 @@
 ### Hi there! I'm **Renato Albuquerque**, Front-End Developer. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
-  - Main languages: `HTML, CSS, JavaScript, React, Node.js`. <br>
-  - Learning about: `Asynchronous JavaScript (Fetch API, async/await), Bootstrap, Tailwind CSS, SQL`.
+  - Main skills: `HTML, CSS, JavaScript, APIs, React, Node.js`. <br>
+  - Learning about: `Bootstrap, Tailwind CSS, SQL`.
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
     - React at <a href="https://horadecodar.com.br/" target="_blank">"Hora de Codar" by Matheus Battisti.<a/>
