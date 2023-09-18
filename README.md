@@ -2,10 +2,10 @@
 
 - 🌱 <ins>Current stacks:</ins> <br>
   - Main skills: `HTML, CSS, JavaScript, REST APIs, React, Vite, Node.js`. <br>
-  - Learning about: `Bootstrap, Tailwind CSS, SQL`.
+  - Learning about: `Bootstrap, Tailwind CSS, Angular, SQL`.
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
-    - React at <a href="https://horadecodar.com.br/" target="_blank">"Hora de Codar" by Matheus Battisti.<a/>
+    - React | Vite at <a href="https://horadecodar.com.br/" target="_blank">"Hora de Codar" by Matheus Battisti.<a/>
     - Front-End Web Development at <a href="https://www.cursoemvideo.com/" target="_blank">"Curso em Vídeo" by Gustavo Guanabara.<a/>
     - Full Stack Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat.<a/>    
   - `Engineering Background`:  
