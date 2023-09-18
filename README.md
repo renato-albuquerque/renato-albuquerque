@@ -1,7 +1,7 @@
 ### Hi there! I'm **Renato Albuquerque**, Front-End Developer. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
-  - Main skills: `HTML, CSS, JavaScript, REST APIs, React, Vite, Node.js`. <br>
+  - Main skills: `HTML, CSS, JavaScript, REST APIs, React|Vite, Node.js`. <br>
   - Learning about: `Bootstrap, Tailwind CSS, Angular, SQL`.
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
