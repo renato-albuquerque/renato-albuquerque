@@ -28,7 +28,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-albuquerque&layout=compact&langs_count=7&theme=dark"/>
 </div> <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=renato-albuquerque&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=renato-albuquerque&theme=dark)](https://git.io/streak-stats) -->
 
 ##
 
