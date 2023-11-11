@@ -1,8 +1,8 @@
 ### Hi there! I'm **Renato Albuquerque**, Front-End Developer. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
-  - Main skills: `HTML, CSS, JavaScript, REST APIs, React|Vite, Node.js`. <br>
-  - Learning about: `Bootstrap, Angular, SQL, C#`.
+  - Main skills: `HTML, CSS, JavaScript, Bootstrap, REST APIs, React|Vite, Node.js`. <br>
+  - Learning about: `Angular, SQL, C#`.
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
     - React | Vite at <a href="https://horadecodar.com.br/" target="_blank">"Hora de Codar" by Matheus Battisti.<a/>
