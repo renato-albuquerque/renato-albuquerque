@@ -5,9 +5,10 @@
   - Learning about: `Angular, SQL, C#`.
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
+    - Angular CLI at <a href="https://imatech.io/" target="_blank">Imã Tech.<a/>
     - React | Vite at <a href="https://horadecodar.com.br/" target="_blank">"Hora de Codar" by Matheus Battisti.<a/>
     - Front-End Web Development at <a href="https://www.cursoemvideo.com/" target="_blank">"Curso em Vídeo" by Gustavo Guanabara.<a/>
-    - Full Stack Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat.<a/>    
+    - Front-End Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat.<a/>    
   - `Engineering Background`:  
     - Degree in Production Engineering from the Federal University of Ceará. `(Brazil)`
     - Postgraduate degree in Port Engineering from the Federal University of Maranhão. `(Brazil)`
