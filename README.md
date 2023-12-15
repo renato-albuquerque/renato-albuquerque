@@ -1,11 +1,11 @@
 ### Hi there! I'm **Renato Albuquerque**, Front-End Developer. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
-  - Main skills: `HTML, CSS, JavaScript, Bootstrap, REST APIs, React|Vite, Node.js`. <br>
-  - Learning about: `Angular, SQL, C#`.
+  - Main skills: `HTML, CSS, JavaScript, Bootstrap, REST APIs, Node.js`. <br>
+  - Learning about: `TypeScript, Angular, React|Vite, SQL, C#`.
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
-    - Angular CLI at <a href="https://imatech.io/" target="_blank">Imã Tech.<a/>
+    - TypeScript | Angular CLI at <a href="https://imatech.io/" target="_blank">Imã Tech.<a/>
     - React | Vite at <a href="https://horadecodar.com.br/" target="_blank">"Hora de Codar" by Matheus Battisti.<a/>
     - Front-End Web Development at <a href="https://www.cursoemvideo.com/" target="_blank">"Curso em Vídeo" by Gustavo Guanabara.<a/>
     - Front-End Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat.<a/>    
@@ -40,8 +40,8 @@
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icon-Bootstrap" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="icon-React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="icon-Vite" height="30" width="40" src="https://vitejs.dev/logo.svg">
+<!--   <img align="center" alt="icon-React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+<!--   <img align="center" alt="icon-Vite" height="30" width="40" src="https://vitejs.dev/logo.svg"> -->
   <img align="center" alt="icon-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <!-- <img align="center" alt="icon-SQL" height="33" width="43" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-server-5410224-4543401.png?f=avif&w=256"> -->    
   <img align="center" alt="icon-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
