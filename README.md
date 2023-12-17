@@ -5,7 +5,7 @@
   - Learning about: `TypeScript, Angular, React|Vite, SQL, C#`.
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
-    - TypeScript | Angular CLI at <a href="https://imatech.io/" target="_blank">Imã Tech.<a/>
+    - Bootstrap | TypeScript | Angular CLI at <a href="https://imatech.io/" target="_blank">Imã Tech.<a/>
     - React | Vite at <a href="https://horadecodar.com.br/" target="_blank">"Hora de Codar" by Matheus Battisti.<a/>
     - Front-End Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat.<a/>    
     - Front-End Web Development at <a href="https://www.cursoemvideo.com/" target="_blank">"Curso em Vídeo" by Gustavo Guanabara.<a/>
