@@ -1,12 +1,11 @@
-### Hi there! I'm **Renato Albuquerque**, Front-End Developer. 👋
+### Hi there! I'm **Renato Albuquerque**, Data Analyst. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
-  - Main skills: `HTML, CSS, JavaScript, Bootstrap, REST APIs, Node.js`. <br>
-  - Learning about: `TypeScript, Angular, React|Vite, SQL, C#`.
+  - Main skills: `Web development, HTML, CSS, JavaScript, Bootstrap, REST APIs, Node.js`. <br>
+  - Learning about: `SQL, PostgreSQL, ETL, Python, Power BI`.
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
-    - Bootstrap | TypeScript | Angular CLI at <a href="https://imatech.io/" target="_blank">Imã Tech.<a/>
-    - React | Vite at <a href="https://horadecodar.com.br/" target="_blank">"Hora de Codar" by Matheus Battisti.<a/>
+    - Bootstrap at <a href="https://imatech.io/" target="_blank">Imã Tech.<a/>
     - Front-End Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat.<a/>    
     - Front-End Web Development at <a href="https://www.cursoemvideo.com/" target="_blank">"Curso em Vídeo" by Gustavo Guanabara.<a/>
   - `Engineering Background`:  
