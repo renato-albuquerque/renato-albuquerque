@@ -5,6 +5,7 @@
   - Learning about: `SQL, PostgreSQL, ETL, Python, Power BI`.
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
+    - Data Analytics at <a href="https://digitalcollege.com.br/" target="_blank">Digital College.<a/>
     - Bootstrap at <a href="https://imatech.io/" target="_blank">Imã Tech.<a/>
     - Front-End Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat.<a/>    
     - Front-End Web Development at <a href="https://www.cursoemvideo.com/" target="_blank">"Curso em Vídeo" by Gustavo Guanabara.<a/>
