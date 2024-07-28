@@ -2,7 +2,7 @@
 
 - 🌱 <ins>Current stacks:</ins> <br>
   - Main skills: `Web development, HTML, CSS, JavaScript, Bootstrap, REST APIs, Node.js`. <br>
-  - Learning about: `SQL, PostgreSQL, ETL, Python, Power BI`.
+  - Learning about: `SQL, MySQL, PostgreSQL, ETL, Python, Power BI`.
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
     - Data Analytics at <a href="https://digitalcollege.com.br/" target="_blank">Digital College.<a/>
