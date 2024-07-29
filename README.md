@@ -1,11 +1,11 @@
 ### Hi there! I'm **Renato Albuquerque**, Data Analyst. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
-  - Main skills: `Web development, HTML, CSS, JavaScript, Bootstrap, REST APIs, Node.js`. <br>
+  - Main skills: `Web development, HTML, CSS, JavaScript, Bootstrap, REST APIs`. <br>
   - Learning about: `SQL, MySQL, PostgreSQL, ETL, Python, Power BI`.
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
-    - Data Analytics at <a href="https://digitalcollege.com.br/" target="_blank">Digital College.<a/>
+    - Data Analytics at <a href="https://digitalcollege.com.br/" target="_blank">Digital College Brasil.<a/>
     - Bootstrap at <a href="https://imatech.io/" target="_blank">Imã Tech.<a/>
     - Front-End Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat.<a/>    
     - Front-End Web Development at <a href="https://www.cursoemvideo.com/" target="_blank">"Curso em Vídeo" by Gustavo Guanabara.<a/>
