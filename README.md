@@ -1,4 +1,4 @@
-### Hi there! I'm **Renato Albuquerque**, Data Analyst. 👋
+### Hi there! I'm **Renato Albuquerque**, Data Analyst | Front-End Developer. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
   - Main skills: `Web development, HTML, CSS, JavaScript, Bootstrap, REST APIs`. <br>
