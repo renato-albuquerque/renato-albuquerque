@@ -1,8 +1,8 @@
-### Hi there! I'm **Renato Albuquerque**, Data Analyst | Front-End Developer. 👋
+### Hi there! I'm **Renato Albuquerque**, Data Analyst. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
-  - Main skills: `Web development, HTML, CSS, JavaScript, Bootstrap, REST APIs`. <br>
-  - Learning about: `SQL, MySQL, PostgreSQL, DbSchema, ETL, Pentaho, Python, Power BI`.
+  - Main skills: `SQL, MySQL, PostgreSQL, DbSchema, ETL, Web development, HTML, CSS, JavaScript, Bootstrap, REST APIs`. <br>
+  - Learning about: `Pentaho, Python, Microsoft Power BI`.
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
     - Data Analytics at <a href="https://digitalcollege.com.br/" target="_blank">Digital College Brasil.<a/>
