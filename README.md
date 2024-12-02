@@ -36,6 +36,8 @@
 ### 🚀 Technologies 
   
 <div style="display: inline_block">
+  https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg
+  https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
