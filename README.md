@@ -1,8 +1,9 @@
 ### Hi there! I'm **Renato Albuquerque**, Data Analyst. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
-  - Main skills: `SQL, MySQL, PostgreSQL, DbSchema, ETL, Web development, HTML, CSS, JavaScript, Bootstrap, REST APIs`. <br>
-  - Learning about: `Pentaho, Python, Microsoft Power BI, Microsoft Azure, Data Engineering`.
+  - Main skills: `SQL, MySQL, PostgreSQL, DbSchema, ETL`. <br>
+  - Learning about: `Pentaho, Python, Microsoft Power BI, Microsoft Azure, Data Engineering`. <br>
+  - Other Tech Skills: `Web development, HTML, CSS, JavaScript, Bootstrap, REST APIs`. 
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
     - Data Analytics at <a href="https://digitalcollege.com.br/" target="_blank">Digital College Brasil.<a/>
