@@ -1,8 +1,8 @@
 ### Hi there! I'm **Renato Albuquerque**, Data Analyst. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
-  - Main skills: `SQL, MySQL, PostgreSQL, DbSchema, ETL`. <br>
-  - Learning about: `Pentaho, Python, Microsoft Power BI, Microsoft Azure, Data Engineering`. <br>
+  - Main skills: `SQL, MySQL, PostgreSQL, DbSchema, ETL, Pentaho`. <br>
+  - Learning about: `Apache Hop, Python, Microsoft Power BI, Microsoft Azure, Data Engineering`. <br>
   - Other Tech Skills: `Web development, HTML, CSS, JavaScript, Bootstrap, REST APIs`. 
 - 💬 <ins>About me:</ins> <br>
   - `Technology Background`:
