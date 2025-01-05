@@ -8,9 +8,9 @@
   - `Technology Background`:
     - Data Analytics at <a href="https://digitalcollege.com.br/" target="_blank">Digital College Brasil.<a/>
     - SQL Track at <a href="https://www.youtube.com/playlist?list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk" target="_blank">Téo Calvo (Teo Me Why).<a/>
-    - Bootstrap at <a href="https://imatech.io/" target="_blank">Imã Tech.<a/>
-    - Front-End Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat.<a/>    
-    - Front-End Web Development at <a href="https://www.cursoemvideo.com/" target="_blank">"Curso em Vídeo" by Gustavo Guanabara.<a/>
+    - Evangelizing the SQL Language <a href="https://www.youtube.com/playlist?list=PLbPvnlmz6e_LeQn0tls5MczWIZCj9zZNi" target="_blank">Wallace Camargo, Ítalo Mesquita, Luiz Vitor, Raphael Amorim.<a/> 
+    - Bootstrap at <a href="https://imatech.io/" target="_blank">Imã Tech.<a/> 
+    - Front-End Web Development at <a href="https://www.cursoemvideo.com/" target="_blank">Gustavo Guanabara,<a/> <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat.<a/> 
   - `Engineering Background`:  
     - Degree in Production Engineering from the Federal University of Ceará. `(Brazil)`
     - Postgraduate degree in Port Engineering from the Federal University of Maranhão. `(Brazil)`
