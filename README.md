@@ -1,14 +1,16 @@
-### Hi there! I'm **Renato Albuquerque**, Data Analyst. 👋
+### Hi there! I'm **Renato Albuquerque**, Data Engineer. 👋
 
 - 🌱 <ins>Current stacks:</ins> <br>
-  - Main skills: `SQL, MySQL, PostgreSQL, DbSchema, ETL, Pentaho`. <br>
-  - Learning about: `Apache Hop, Python, Microsoft Power BI, Microsoft Azure, Data Engineering`. <br>
+  - Main skills: `SQL, MySQL, PostgreSQL, SQL Server, Data Modeling, DbSchema, ETL, Pentaho, Apache Hop`. <br>
+  - Learning about: `Python, Microsoft Power BI, Microsoft Azure, Databricks, Data Engineering`. <br>
   - Other Tech Skills: `Web development, HTML, CSS, JavaScript, Bootstrap, REST APIs`. 
 - 💬 <ins>About me:</ins> <br>
-  - `Technology Background`:
+  - `Technology Background | Data`:
     - Data Analytics at <a href="https://digitalcollege.com.br/" target="_blank">Digital College Brasil.<a/>
     - SQL Track at <a href="https://www.youtube.com/playlist?list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk" target="_blank">Téo Calvo (Teo Me Why).<a/>
-    - Evangelizing the SQL Language at <a href="https://www.youtube.com/playlist?list=PLbPvnlmz6e_LeQn0tls5MczWIZCj9zZNi" target="_blank">Wallace Camargo, Ítalo Mesquita, Luiz Vitor, Raphael Amorim.<a/> 
+    - Evangelizing the SQL Language at <a href="https://www.youtube.com/playlist?list=PLbPvnlmz6e_LeQn0tls5MczWIZCj9zZNi" target="_blank">Wallace Camargo, Ítalo Mesquita, Luiz Vitor, Raphael Amorim.<a/>
+    - SQL Journey Bootcamp at <a href="https://hotmart.com/pt-br/marketplace/produtos/bootcamp-sql/J97385884S?sck=HOTMART_SITE&src=" target="_blank">Ítalo Mesquita.<a/>
+  - `Technology Background | Web Development`:
     - Bootstrap at <a href="https://imatech.io/" target="_blank">Imã Tech.<a/> 
     - Front-End Web Development at <a href="https://www.cursoemvideo.com/" target="_blank">Gustavo Guanabara,<a/> <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat.<a/> 
   - `Engineering Background`:  
